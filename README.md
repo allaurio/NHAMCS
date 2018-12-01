@@ -1,2 +1,2 @@
 # NHAMCS
-National Hospital Ambulatory Medical Center Survey data 2007-2015 tab delimited text files
+National Hospital Ambulatory Medical Center Survey Emergency Department data from 2007 to 2015 as compressed tab-delimited text files.
